@@ -1,0 +1,16 @@
+10 READY QUICK REPLIES for WhatsApp Business
+How to use: WhatsApp Business > Settings > Business tools > Quick replies > Add. Type the shortcut, paste the message.
+Change the [brackets] to your own details. In any chat, type / and pick the reply.
+
+1.  /hello     Hello! Welcome to [shop name]. How can I help you today?
+2.  /price     The price of this item is [price] rupees. Let me know if you'd like to order.
+3.  /hours     We are open from [10 am to 8 pm], [Monday to Saturday]. Closed on [day].
+4.  /address   Here is our address: [full address]. Google Maps link: [link]
+5.  /payment   You can pay by UPI: [UPI ID]. Please send a screenshot after paying.
+6.  /delivery  We deliver in [city] within [1-2 days]. Delivery charge is [amount] rupees.
+7.  /stock     Yes, this item is in stock. Tell me how many you need and we'll pack it.
+8.  /wait      Thank you for your message! We will reply within [10 minutes].
+9.  /confirm   Your order is confirmed. We will message you as soon as it is ready.
+10. /thanks    Thank you for your order! If you need anything, message us on this number.
+
+Tip: also set a Greeting message for new customers and an Away message for when the shop is closed (Business tools).
