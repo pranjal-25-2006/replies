@@ -1,0 +1,55 @@
+BUSINESS FACTS SHEET for WhatsApp Business AI
+Fill this in first. Business AI learns from your WhatsApp Business profile, your catalog and the documents you give it, so the clearer these answers are, the better it replies.
+Where to set it up: WhatsApp Business app > Tools > Your Business AI (rolling out to eligible businesses, so you may not see it yet).
+
+1. THE BASICS
+   Shop name:
+   What you sell (one line):
+   Address:
+   Google Maps link:
+   Opening hours:
+   Days closed / holidays:
+   Phone number for urgent things:
+
+2. PRODUCTS AND PRICES (your top 10)
+   1. [item]  -  [price] rupees  -  [size / colour / notes]
+   2.
+   3.
+   (Add the same details to your WhatsApp catalog, the AI reads it.)
+
+3. DISCOUNTS AND OFFERS
+   Current offer:
+   Valid until:
+   Who can use it (everyone / first order / bulk):
+
+4. SHIPPING AND DELIVERY
+   Areas you deliver to:
+   Delivery time:
+   Delivery charge:
+   Free delivery above:
+   Pickup available? (yes/no, where):
+
+5. PAYMENTS
+   UPI ID:
+   Cash on delivery? (yes/no):
+   Advance needed? (yes/no, how much):
+
+6. RETURNS AND PROBLEMS
+   Return / exchange policy:
+   What to do if the item arrives damaged:
+
+7. FAQs YOUR CUSTOMERS ASK MOST (write the answer you want sent)
+   Q: Is this in stock?
+   A:
+   Q: Can I see more photos?
+   A:
+   Q: Do you do custom orders?
+   A:
+   Q: How do I place an order?
+   A:
+
+8. WHEN THE AI SHOULD HAND OVER TO YOU
+   Hand over when the customer: wants a refund / is angry / asks for a big bulk price / wants a custom order.
+   You can step into any chat yourself at any time, or turn Business AI off in the same screen.
+
+TIP: Keep prices and offers up to date. If you change a price, change it here, in your catalog and in your profile.

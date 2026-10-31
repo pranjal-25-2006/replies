@@ -13,3 +13,11 @@ Copy-paste replies for shop owners: hello, price, hours, address, payment, deliv
 Also set a Greeting message for new customers and an Away message for when your shop is closed.
 
 From the reel by @aipranjal.
+
+---
+
+## Business facts sheet for WhatsApp Business AI
+
+**Get the file:** [business_facts_sheet.txt](https://github.com/pranjal-25-2006/replies/blob/main/business_facts_sheet.txt) (raw: https://raw.githubusercontent.com/pranjal-25-2006/replies/main/business_facts_sheet.txt)
+
+Fill it in before you set up Business AI (WhatsApp Business app > Tools > Your Business AI). It is rolling out to eligible businesses first, so you may not see it yet.
