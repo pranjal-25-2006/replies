@@ -1,0 +1,37 @@
+10 COPY-PASTE AI PROMPTS FOR RUNNING A SMALL BUSINESS
+Works in Claude, ChatGPT or any AI assistant. Replace the [brackets] with your own details.
+Privacy tip: never paste customers' phone numbers, addresses, card or bank details. Use first names or "a customer" instead.
+Always read the answer before you send it. You decide the price, the promise and the final wording.
+
+1. REPLY TO A REVIEW
+Write a polite, short reply from the owner of [shop name] to this customer review. Thank them, address the problem without making excuses, and offer to make it right. Keep it under 60 words.
+Review: [paste review]
+
+2. PRODUCT DESCRIPTION
+Write a clear product description for [product]. Facts: [size, material, price, who it's for]. Keep it simple, 3 short paragraphs, no hype words.
+
+3. WHATSAPP REPLIES YOU REPEAT
+I run [type of shop]. Write 10 short WhatsApp replies for the questions customers ask most: price, delivery, opening hours, address, payment, returns. Use friendly, simple English. Leave [brackets] where my details go.
+
+4. SOCIAL POST IDEAS
+Give me 7 Instagram post ideas for [type of business] for the next week. For each: a hook line, 2 lines of caption, and a call to action. Mix tips, behind the scenes and customer stories.
+
+5. SALES SUMMARY
+Here are this month's sales numbers: [paste numbers]. Summarize in plain words: best sellers, slow movers, and 3 simple actions I can take next month.
+
+6. POLITE PAYMENT REMINDER
+Write 3 versions of a polite payment reminder for an invoice of [amount] that is [number] days late: gentle, firm, and final. Keep each under 50 words.
+
+7. JOB AD FOR A HELPER
+Write a simple job ad for a [role] at [shop name] in [city]. Include duties, timings, pay range [range], and how to apply by WhatsApp.
+
+8. TURN MY PRICE LIST INTO A MESSAGE
+Here is my price list: [paste list]. Turn it into a clean, easy-to-read WhatsApp message I can send to customers.
+
+9. HANDLE A COMPLAINT
+A customer says: "[paste complaint]". Suggest 3 calm ways to respond, from simplest to most generous, and tell me what each one costs me.
+
+10. WEEKLY TO-DO PLAN
+I own [type of business] with [number] staff. Here is what I need to get done this week: [list]. Put it in a day-by-day plan with the most important task first.
+
+Source for the reel this file came from: Anthropic's public Form S-1, filed 26 Oct 2026 (sec.gov).

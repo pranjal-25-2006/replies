@@ -21,3 +21,11 @@ From the reel by @aipranjal.
 **Get the file:** [business_facts_sheet.txt](https://github.com/pranjal-25-2006/replies/blob/main/business_facts_sheet.txt) (raw: https://raw.githubusercontent.com/pranjal-25-2006/replies/main/business_facts_sheet.txt)
 
 Fill it in before you set up Business AI (WhatsApp Business app > Tools > Your Business AI). It is rolling out to eligible businesses first, so you may not see it yet.
+
+---
+
+## 10 copy-paste AI prompts for running a small business
+
+**Get the file:** [ai_prompts_for_business.txt](https://github.com/pranjal-25-2006/replies/blob/main/ai_prompts_for_business.txt) (raw: https://raw.githubusercontent.com/pranjal-25-2006/replies/main/ai_prompts_for_business.txt)
+
+Works in Claude, ChatGPT or any AI assistant. Replace the [brackets] with your own details, and never paste customers' private data.
