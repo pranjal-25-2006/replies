@@ -29,3 +29,16 @@ Fill it in before you set up Business AI (WhatsApp Business app > Tools > Your B
 **Get the file:** [ai_prompts_for_business.txt](https://github.com/pranjal-25-2006/replies/blob/main/ai_prompts_for_business.txt) (raw: https://raw.githubusercontent.com/pranjal-25-2006/replies/main/ai_prompts_for_business.txt)
 
 Works in Claude, ChatGPT or any AI assistant. Replace the [brackets] with your own details, and never paste customers' private data.
+
+---
+
+## Free Claude skills pack: video editor + 3D motion designer
+
+**Get the file:** [free_claude_skills_pack.md](https://github.com/pranjal-25-2006/replies/blob/main/free_claude_skills_pack.md) (raw: https://raw.githubusercontent.com/pranjal-25-2006/replies/main/free_claude_skills_pack.md)
+
+The three skill packs it covers (all open source):
+- HyperFrames (video editor): https://github.com/heygen-com/hyperframes (Apache-2.0)
+- three.js skills (3D): https://github.com/cloudai-x/threejs-skills (MIT)
+- Motion graphics pack: https://github.com/charlie947/motion-graphics-skills (MIT)
+
+Read a skill's README before installing it: skills can run commands on your computer.
