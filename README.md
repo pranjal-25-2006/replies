@@ -42,3 +42,11 @@ The three skill packs it covers (all open source):
 - Motion graphics pack: https://github.com/charlie947/motion-graphics-skills (MIT)
 
 Read a skill's README before installing it: skills can run commands on your computer.
+
+---
+
+## Free marketing skills for Claude (6 ready-to-upload zips)
+
+**Open the folder:** https://github.com/pranjal-25-2006/replies/tree/main/marketing-skills (read its README first)
+
+Zips: copywriting, offers, lead-magnets, pricing, social, customer-research. They come from https://github.com/coreyhaines31/marketingskills (MIT license, by Corey Haines). Upload each zip in Claude under Customize > Skills.
